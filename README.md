@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**jonascaetano/jonascaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Jonas.
 
-Here are some ideas to get you started:
+💻  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔   Exploring new technologies and developing software solutions for technology problems in our daily lives.
+- 🎓   Studying Systems Analysis and Development at IFSP.
+
+🛠  Tech Stack
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+  ## My Stats
+<p>
+<a href="https://github.com/jonascaetano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonascaetano&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonascaetano&theme=dracula&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<a href="https://www.linkedin.com/in/jonascaetano"><img src="https://img.shields.io/badge/-Jonas%20Caetano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
