@@ -22,7 +22,9 @@
   ## My Stats
 <p>
 <a href="https://github.com/jonascaetano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonascaetano&show_icons=true&theme=dracula" /> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonascaetano&theme=dracula&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonascaetano&show_icons=true&theme=dracula" /> 
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonascaetano&theme=dracula&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
