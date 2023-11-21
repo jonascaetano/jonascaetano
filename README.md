@@ -38,3 +38,8 @@
 
 <a href="https://www.linkedin.com/in/jonascaetano"><img src="https://img.shields.io/badge/-Jonas%20Caetano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/jonascaetano)
+
+
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/jonascaetano/blob/output/github-contribution-grid-snake.svg)
