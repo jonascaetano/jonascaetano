@@ -42,4 +42,5 @@
 
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/jonascaetano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jonascaetano/jonascaetano/blob/output/github-contribution-grid-snake.svg)
+
