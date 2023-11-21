@@ -5,7 +5,8 @@
 💻  About Me
 
 - 🤔   Exploring new technologies and developing software solutions for technology problems in our daily lives.
-- 🎓   Studying Systems Analysis and Development at IFSP.
+- 🎓   Specialization in Information Technology Management at IFSP.
+- 🌱 &nbsp; Learning more about **Projects, Governance, Security, Services, Architecture, Trends and Ethics in IT.**.
 
 🛠  Tech Stack
 - 🌐 &nbsp;
